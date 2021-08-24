@@ -10,7 +10,7 @@ svg {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
   fill: #00000000;
-  stroke: #8B8B8B22;
+  stroke: #76839022;
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
@@ -42,7 +42,7 @@ td {
   padding: 0.25em;
   font-size: 12px;
   line-height: 18px;
-  color: rgb(145, 145, 145);
+  color: #768390;
 }
 
 tr {
@@ -55,7 +55,7 @@ tr {
 
 .label {
   font-weight: 600;
-  color: rgb(139, 139, 139);
+  color: #768390;
 }
 .octicon {
   fill: rgb(139, 139, 139);
