@@ -71,7 +71,6 @@ async def generate_languages(s: Stats) -> None:
             ratio = [1, 0]
         progress += (f'<span style="background-color: {color};'
                      f'width: {(ratio[0] * data.get("prop", 0)):0.3f}%;'
-                     f'margin-right: {(ratio[1] * data.get("prop", 0)):0.3f}%;" '
                      f'class="progress-item"></span>')
         lang_list += f"""
 <li style="animation-delay: {i * delay_between}ms;">
