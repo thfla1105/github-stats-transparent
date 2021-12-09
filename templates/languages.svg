@@ -41,6 +41,7 @@ li {
   font-size: 14px;
   margin-right: 2ch;
   align-items: center;
+  margin-bottom: 10px;
   flex-wrap: nowrap;
   transform: translateX(-500%);
   animation-duration: 1s;
