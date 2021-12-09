@@ -25,8 +25,8 @@ h2 {
   margin-bottom: 0.75em;
   line-height: 24px;
   font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-  color: #c792ea;
-  fill: #c792ea;  
+  color: #C691E9;
+  fill: #C691E9;  
 }
 
 ul {
