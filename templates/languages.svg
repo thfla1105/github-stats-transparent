@@ -39,7 +39,7 @@ ul {
 
 li {
   display: inline-flex;
-  font-size: 16px;
+  font-size: 14px;
   margin-right: 2ch;
   align-items: center;
   margin-bottom: 0.4rem;
