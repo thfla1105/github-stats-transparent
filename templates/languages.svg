@@ -1,4 +1,4 @@
-<svg width="360" height="210" xmlns="http://www.w3.org/2000/svg">
+<svg width="495" height="195" xmlns="http://www.w3.org/2000/svg">
 <style>
 svg {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
@@ -8,8 +8,8 @@ svg {
 
 #background {
   width: calc(100% - 10px);
-  height: calc(100% - 10px);
-  fill: #00000000;
+  height: calc(100% - 1px);
+  fill: #20232a;
   stroke: #76839022;
   stroke-width: 1px;
   rx: 6px;
@@ -43,6 +43,7 @@ li {
   font-size: 12px;
   margin-right: 2ch;
   align-items: center;
+  margin-bottom: 0.4rem;
   flex-wrap: nowrap;
   transform: translateX(-500%);
   animation-duration: 1s;
@@ -82,17 +83,17 @@ div.ellipsis {
 .lang {
   font-weight: 600;
   margin-right: 4px;
-  color: #768390;
+  color: #ffffff;
 }
 
 .percent {
-  color: #768390
+  color: #999999
 }
 </style>
 <g>
-<rect x="5" y="5" id="background" />
+<rect id="background" />
 <g>
-<foreignObject x="21" y="17" width="318" height="176">
+<foreignObject x="21" y="17" width="494" height="195">
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
 <h2>Most Used Languages</h2>
