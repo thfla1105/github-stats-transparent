@@ -40,7 +40,7 @@ anyone may be able to see the name of one or more private repositories.
    ![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/main/readme_images/Actions.png)
    
 4. Create a new secret with the name `ACCESS_TOKEN` and paste the copied
-   personal access token as the value.
+   personal access token as the value .
 
    <img src='https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/main/readme_images/Token.png' height='250px'/>
 
