@@ -70,7 +70,7 @@ anyone may be able to see the name of one or more private repositories.
 10. Link back to this repository so that others can generate their own
    statistics images.
 
-11. Star this repo if you like it!
+11. Star this repo if you like it !
 
 
 <br>
